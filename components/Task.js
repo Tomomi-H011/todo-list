@@ -1,3 +1,6 @@
+// components/Task.js
+// A component to represent a single task item in the to-do list
+
 import React from "react";
 import { StyleSheet, Text, View } from "react-native";
 
